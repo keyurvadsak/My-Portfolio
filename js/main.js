@@ -138,8 +138,9 @@
         const roles = [
             'AI-powered platforms',
             'scalable backend APIs',
-            'real-time solutions',
-            'data-driven software'
+            'multi-agent trading systems',
+            'LLM & ERP assistants',
+            'automated data pipelines'
         ];
         let roleIndex = 0;
         let charIndex = 0;
